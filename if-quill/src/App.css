@@ -39,4 +39,11 @@
 
 .App .ql-editor {
   min-height: 30em;
+  border: 1px solid blue;
+  max-width: 600px;
+  margin: auto auto 200px auto;
+}
+
+.review-comment-line {
+  display: inline-block;
 }
